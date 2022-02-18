@@ -1,0 +1,17 @@
+{
+  "name": "oxford_downloader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.0",
+    "image-to-pdf": "^1.0.0",
+    "images-to-pdf": "^1.0.3",
+    "puppeteer": "^13.3.2"
+  }
+}
